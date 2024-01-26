@@ -34,7 +34,7 @@ const Type = () => {
           className='h-[70vh] w-[40vh] flex flex-col justify-start items-center sm:m-6 relative left-7 '>
           <div className='bg-blue-400 bg-cover bg-center bg-quad h-[110%] w-[60%]'></div>
           <h1 className='text-[5vh]   absolute mr-4 mt-2 text-white '>STELVIO<br /> QUADRIFOGLO</h1>
-          <div className='w-[46VH] h-[50vh] bg-cover bg-center bg-STEVQV relative bottom-20   '></div>
+          <div className='w-[45VH] h-[35vh] bg-cover bg-center bg-STEVQV relative bottom-20   '></div>
 
           <button className='bg-white w-full h-[10vh] font-mono text-[2vh] text-center relative bottom-6 text-gray-600'>CONFIGURE & BUY </button>
           <button className='w-full h-[10vh] font-mono text-[2vh] text-center underline underline-offset-2 text-gray-300'>DISCOVER MORE </button>
@@ -55,7 +55,7 @@ const Type = () => {
           className='h-[70vh] w-[40vh]  hidden  sm:flex flex-col justify-start items-center m-6'>
           <div className='bg-blue-400 bg-cover bg-center bg-veloce h-[110%] w-[60%]'></div>
           <h1 className='text-[5vh]   absolute mr-32 mt-2 text-white '>STELVIO<br /> VELOCE</h1>
-          <div className='w-[46VH] h-[50vh] bg-cover bg-center bg-STEV relative bottom-20   '></div>
+          <div className='w-[45VH] h-[35vh] bg-cover bg-center bg-STEV relative bottom-20   '></div>
 
           <button className='bg-white w-full h-[10vh] font-mono text-[2vh] text-center relative bottom-6 text-gray-600'>CONFIGURE & BUY </button>
           <button className='w-full h-[10vh] font-mono text-[2vh] text-center underline underline-offset-2 text-gray-300'>DISCOVER MORE </button>
@@ -76,7 +76,7 @@ const Type = () => {
           className='h-[70vh] w-[40vh]  relative right-52 sm:right-0 flex flex-col justify-start items-center '>
           <div className='bg-blue-400 bg-cover bg-center bg-quad h-[110%] w-[60%]'></div>
           <h1 className='text-[5vh]   absolute mr-4 mt-2 text-white '>GIULIA<br /> QUADRIFOGLO</h1>
-          <div className='w-[46VH] h-[50vh] bg-cover bg-center bg-GULQV relative bottom-20   '></div>
+          <div className='w-[45VH] h-[35vh] bg-cover bg-center bg-GULQV relative bottom-20   '></div>
 
           <button className='bg-white w-full h-[10vh] font-mono text-[2vh] text-center relative bottom-6 text-gray-600'>CONFIGURE & BUY </button>
           <button className='w-full h-[10vh] font-mono text-[2vh] text-center underline underline-offset-2 text-gray-300'>DISCOVER MORE </button>
@@ -97,7 +97,7 @@ const Type = () => {
           className='h-[70vh] w-[40vh] hidden  sm:flex  flex-col justify-start items-center m-6'>
           <div className='bg-blue-400 bg-cover bg-center bg-veloce  h-[110%] w-[60%]'></div>
           <h1 className='text-[5vh]   absolute mr-32 mt-2 text-white '>GIULIA<br /> VELOCE</h1>
-          <div className='w-[46VH] h-[50vh] bg-cover bg-center bg-GULE relative bottom-20    '></div>
+          <div className='w-[45VH] h-[35vh] bg-cover bg-center bg-GULE relative bottom-20    '></div>
 
           <button className='bg-white w-full h-[10vh] font-mono text-[2vh] text-center relative bottom-6 text-gray-600'>CONFIGURE & BUY </button>
           <button className='w-full h-[10vh] font-mono text-[2vh] text-center underline underline-offset-2 text-gray-300'>DISCOVER MORE </button>
