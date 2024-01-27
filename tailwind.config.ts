@@ -10,7 +10,7 @@ const config: Config = {
     extend: {
       backgroundImage: {
        
-        "alfalogo": "url('./../imgs/logoalfa.jpg')",
+        
         "STEVQV": "url('https://www.alfaromeo.com/content/dam/alfa/cross/header/modelli/june-2023/AR-Home-Trim-Figurini-Stelvio-QV-MCA.png')",
         "GULQV": "url('https://www.alfaromeo.com/content/dam/alfa/cross/header/modelli/june-2023/AR-Home-Trim-Figurini-Giulia-QV-MCA.png')",
         "STEV": "url('https://www.alfaromeo.com/content/dam/alfa/cross/header/modelli/AR-Menu-Stelvio-MCA-TI.png')",
