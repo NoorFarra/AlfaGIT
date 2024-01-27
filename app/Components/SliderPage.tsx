@@ -49,7 +49,7 @@ const SliderPage = () => {
           </div>
           <div className='sm:w-1/2 w-full sm:h-full flex flex-col sm:flex-row sm:justify-end p-7 sm:mr-6 items-center gap-1  sm:gap-3'>
           
-            <button className='bg-white text-xs font-mono cursor-pointer z-20  h-[7vh] w-full sm:w-[24vh]'>CONFIGURE & BUY</button>
+            <button className='bg-white text-xs font-mono cursor-pointer z-20  h-[7vh] w-full text-black sm:w-[24vh]'>CONFIGURE & BUY</button>
             <button className='bg-none border border-spacing-1 text-white text-xs font-mono cursor-pointer z-20 w-full h-[7vh] sm:w-[24vh]'>DISCOVER MORE</button>
           
           
@@ -69,7 +69,7 @@ const SliderPage = () => {
           </div>
           <div className='sm:w-1/2 w-full sm:h-full flex flex-col sm:flex-row sm:justify-end p-7 sm:mr-6 items-center gap-1  sm:gap-3'>
           
-            <button className='bg-white text-xs font-mono cursor-pointer z-20  h-[7vh] w-full sm:w-[24vh]'>DISCOVER MORE</button>
+            <button className='bg-white text-xs font-mono cursor-pointer z-20  h-[7vh] w-full text-black sm:w-[24vh]'>DISCOVER MORE</button>
             
           
           
@@ -89,7 +89,7 @@ const SliderPage = () => {
           </div>
           <div className='sm:w-1/2 w-full sm:h-full flex flex-col sm:flex-row sm:justify-end p-7 sm:mr-6 items-center gap-1  sm:gap-3'>
           
-          <button className='bg-white text-xs font-mono cursor-pointer z-20  h-[7vh] w-full sm:w-[24vh]'>DISCOVER MORE</button>
+          <button className='bg-white text-xs font-mono cursor-pointer z-20  h-[7vh] w-full text-black sm:w-[24vh]'>DISCOVER MORE</button>
           
           
           
@@ -108,7 +108,7 @@ const SliderPage = () => {
           </div>
           <div className='sm:w-1/2 w-full sm:h-full flex flex-col sm:flex-row sm:justify-end p-7 sm:mr-6 items-center gap-1  sm:gap-3'>
           
-            <button className='bg-white text-xs font-mono cursor-pointer z-20  h-[7vh] w-full sm:w-[24vh]'>CONFIGURE & BUY</button>
+            <button className='bg-white text-xs font-mono cursor-pointer z-20  h-[7vh] w-full text-black sm:w-[24vh]'>CONFIGURE & BUY</button>
             <button className='bg-none border border-spacing-1 text-white text-xs font-mono cursor-pointer z-20 w-full h-[7vh] sm:w-[24vh]'>DISCOVER MORE</button>
           
           
