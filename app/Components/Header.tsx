@@ -103,7 +103,7 @@ const toggleNavbar = () => {
                 </h3></Link>
             </div>
             <div className='h-full w-[20%]  flex justify-center items-center bg-none'>
-              <Link href={'/'} className='h-[6vh] hidden sm:flex z-20   w-[20%] bg-cover cursor-pointer rounded-2xl bg-center ' >
+              <Link href={'/'} className='h-[6vh] hidden sm:flex z-20   w-[20%] bg-cover bg-alfalogo cursor-pointer rounded-2xl bg-center ' >
               
               </Link>
             </div>

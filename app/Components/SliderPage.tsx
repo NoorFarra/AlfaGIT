@@ -39,7 +39,7 @@ const SliderPage = () => {
     }}
 >
       <Slider {...settings}>
-      <div className='w-full h-[100vh]  bg-center   bg-cover'>
+      <div className='w-full h-[100vh]  bg-center bg-first  bg-cover'>
       <div className='w-full h-full bg-none flex   sm:items-end  '>
         <div className='w-full sm:h-[35vh] h-full flex flex-col sm:flex-row sm:mb-5  justify-center items-center '>
           <div className='sm:w-1/2 w-full h-full flex flex-col relative sm:top-0 top-[13vh] sm:justify-center items-start gap-1  '>
@@ -59,7 +59,7 @@ const SliderPage = () => {
        </div>
       </div>
     
-      <div className='w-full h-[100vh]  bg-center  bg-cover'>
+      <div className='w-full h-[100vh]  bg-center bg-second  bg-cover'>
       <div className='w-full h-full bg-none flex   sm:items-end  '>
         <div className='w-full sm:h-[35vh] h-full flex flex-col sm:flex-row sm:mb-5  justify-center items-center '>
           <div className='sm:w-1/2 w-full h-full flex flex-col relative sm:top-0 top-[13vh] sm:justify-center items-start gap-4  '>
@@ -79,7 +79,7 @@ const SliderPage = () => {
        </div>
       </div>
     
-      <div className='w-full h-[100vh]  bg-center  bg-cover'>
+      <div className='w-full h-[100vh]  bg-center bg-third bg-cover'>
       <div className='w-full h-full bg-none flex   sm:items-end  '>
         <div className='w-full sm:h-[35vh] h-full flex flex-col sm:flex-row sm:mb-5  justify-center items-center '>
           <div className='sm:w-1/2 w-full h-full flex flex-col relative sm:top-0 top-[13vh] sm:justify-center items-start gap-1  '>
@@ -98,7 +98,7 @@ const SliderPage = () => {
        </div>
       </div>
     
-      <div className='w-full h-[100vh]  bg-center  bg-cover'>
+      <div className='w-full h-[100vh]  bg-center bg-forth bg-cover'>
       <div className='w-full h-full bg-none flex   sm:items-end  '>
         <div className='w-full sm:h-[35vh] h-full flex flex-col sm:flex-row sm:mb-5  justify-center items-center '>
           <div className='sm:w-1/2 w-full h-full flex flex-col relative sm:top-0 top-[13vh] sm:justify-center items-start gap-1  '>
