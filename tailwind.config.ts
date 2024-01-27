@@ -9,15 +9,7 @@ const config: Config = {
   theme: {
     extend: {
       backgroundImage: {
-        "first":"url('./../imgs/first.jpg')",
-        "veloce":"url('./../imgs/veloce.jpg')",
-        "quad":"url('./../imgs/quadro.jpg')",
-        "second":"url('./../imgs/second.jpg')",
-        "third":"url('./../imgs/third.jpg')",
-        "forth":"url('./../imgs/forth.jpg')",
-        "car":"url('./../imgs/caar.jpg')",
-        "deal":"url('./../imgs/deal.jpg')",
-        "map":"url('./../imgs/map.jpg')",
+       
         "alfalogo": "url('./../imgs/logoalfa.jpg')",
         "STEVQV": "url('https://www.alfaromeo.com/content/dam/alfa/cross/header/modelli/june-2023/AR-Home-Trim-Figurini-Stelvio-QV-MCA.png')",
         "GULQV": "url('https://www.alfaromeo.com/content/dam/alfa/cross/header/modelli/june-2023/AR-Home-Trim-Figurini-Giulia-QV-MCA.png')",
